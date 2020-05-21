@@ -1,0 +1,38 @@
+C:\Users\ozi3o\Documents\Etudes\O'Reilly learning\Building Web Applications with .NET Core 2.1 and JavaScript\building-web-apps-master\SpyStore_Me_.Net_Core\SpyStore.Service\bin\Debug\netcoreapp2.1\SpyStore.Service.deps.json
+C:\Users\ozi3o\Documents\Etudes\O'Reilly learning\Building Web Applications with .NET Core 2.1 and JavaScript\building-web-apps-master\SpyStore_Me_.Net_Core\SpyStore.Service\bin\Debug\netcoreapp2.1\SpyStore.Service.runtimeconfig.json
+C:\Users\ozi3o\Documents\Etudes\O'Reilly learning\Building Web Applications with .NET Core 2.1 and JavaScript\building-web-apps-master\SpyStore_Me_.Net_Core\SpyStore.Service\bin\Debug\netcoreapp2.1\SpyStore.Service.runtimeconfig.dev.json
+C:\Users\ozi3o\Documents\Etudes\O'Reilly learning\Building Web Applications with .NET Core 2.1 and JavaScript\building-web-apps-master\SpyStore_Me_.Net_Core\SpyStore.Service\bin\Debug\netcoreapp2.1\SpyStore.Service.dll
+C:\Users\ozi3o\Documents\Etudes\O'Reilly learning\Building Web Applications with .NET Core 2.1 and JavaScript\building-web-apps-master\SpyStore_Me_.Net_Core\SpyStore.Service\bin\Debug\netcoreapp2.1\SpyStore.Service.pdb
+C:\Users\ozi3o\Documents\Etudes\O'Reilly learning\Building Web Applications with .NET Core 2.1 and JavaScript\building-web-apps-master\SpyStore_Me_.Net_Core\SpyStore.Service\bin\Debug\netcoreapp2.1\SpyStore.Dal.dll
+C:\Users\ozi3o\Documents\Etudes\O'Reilly learning\Building Web Applications with .NET Core 2.1 and JavaScript\building-web-apps-master\SpyStore_Me_.Net_Core\SpyStore.Service\bin\Debug\netcoreapp2.1\SpyStore.Models.dll
+C:\Users\ozi3o\Documents\Etudes\O'Reilly learning\Building Web Applications with .NET Core 2.1 and JavaScript\building-web-apps-master\SpyStore_Me_.Net_Core\SpyStore.Service\bin\Debug\netcoreapp2.1\SpyStore.Dal.pdb
+C:\Users\ozi3o\Documents\Etudes\O'Reilly learning\Building Web Applications with .NET Core 2.1 and JavaScript\building-web-apps-master\SpyStore_Me_.Net_Core\SpyStore.Service\bin\Debug\netcoreapp2.1\SpyStore.Models.pdb
+C:\Users\ozi3o\Documents\Etudes\O'Reilly learning\Building Web Applications with .NET Core 2.1 and JavaScript\building-web-apps-master\SpyStore_Me_.Net_Core\SpyStore.Service\obj\Debug\netcoreapp2.1\SpyStore.Service.csprojAssemblyReference.cache
+C:\Users\ozi3o\Documents\Etudes\O'Reilly learning\Building Web Applications with .NET Core 2.1 and JavaScript\building-web-apps-master\SpyStore_Me_.Net_Core\SpyStore.Service\obj\Debug\netcoreapp2.1\SpyStore.Service.csproj.CoreCompileInputs.cache
+C:\Users\ozi3o\Documents\Etudes\O'Reilly learning\Building Web Applications with .NET Core 2.1 and JavaScript\building-web-apps-master\SpyStore_Me_.Net_Core\SpyStore.Service\obj\Debug\netcoreapp2.1\SpyStore.Service.RazorAssemblyInfo.cache
+C:\Users\ozi3o\Documents\Etudes\O'Reilly learning\Building Web Applications with .NET Core 2.1 and JavaScript\building-web-apps-master\SpyStore_Me_.Net_Core\SpyStore.Service\obj\Debug\netcoreapp2.1\SpyStore.Service.RazorAssemblyInfo.cs
+C:\Users\ozi3o\Documents\Etudes\O'Reilly learning\Building Web Applications with .NET Core 2.1 and JavaScript\building-web-apps-master\SpyStore_Me_.Net_Core\SpyStore.Service\obj\Debug\netcoreapp2.1\SpyStore.Service.AssemblyInfoInputs.cache
+C:\Users\ozi3o\Documents\Etudes\O'Reilly learning\Building Web Applications with .NET Core 2.1 and JavaScript\building-web-apps-master\SpyStore_Me_.Net_Core\SpyStore.Service\obj\Debug\netcoreapp2.1\SpyStore.Service.AssemblyInfo.cs
+C:\Users\ozi3o\Documents\Etudes\O'Reilly learning\Building Web Applications with .NET Core 2.1 and JavaScript\building-web-apps-master\SpyStore_Me_.Net_Core\SpyStore.Service\obj\Debug\netcoreapp2.1\SpyStore.Service.RazorTargetAssemblyInfo.cache
+C:\Users\ozi3o\Documents\Etudes\O'Reilly learning\Building Web Applications with .NET Core 2.1 and JavaScript\building-web-apps-master\SpyStore_Me_.Net_Core\SpyStore.Service\obj\Debug\netcoreapp2.1\SpyStore.Service.csproj.CopyComplete
+C:\Users\ozi3o\Documents\Etudes\O'Reilly learning\Building Web Applications with .NET Core 2.1 and JavaScript\building-web-apps-master\SpyStore_Me_.Net_Core\SpyStore.Service\obj\Debug\netcoreapp2.1\SpyStore.Service.dll
+C:\Users\ozi3o\Documents\Etudes\O'Reilly learning\Building Web Applications with .NET Core 2.1 and JavaScript\building-web-apps-master\SpyStore_Me_.Net_Core\SpyStore.Service\obj\Debug\netcoreapp2.1\SpyStore.Service.pdb
+C:\SpyStore_Me_.Net_Core\SpyStore.Service\bin\Debug\netcoreapp2.1\SpyStore.Service.deps.json
+C:\SpyStore_Me_.Net_Core\SpyStore.Service\bin\Debug\netcoreapp2.1\SpyStore.Service.runtimeconfig.json
+C:\SpyStore_Me_.Net_Core\SpyStore.Service\bin\Debug\netcoreapp2.1\SpyStore.Service.runtimeconfig.dev.json
+C:\SpyStore_Me_.Net_Core\SpyStore.Service\bin\Debug\netcoreapp2.1\SpyStore.Service.dll
+C:\SpyStore_Me_.Net_Core\SpyStore.Service\bin\Debug\netcoreapp2.1\SpyStore.Service.pdb
+C:\SpyStore_Me_.Net_Core\SpyStore.Service\bin\Debug\netcoreapp2.1\SpyStore.Dal.dll
+C:\SpyStore_Me_.Net_Core\SpyStore.Service\bin\Debug\netcoreapp2.1\SpyStore.Models.dll
+C:\SpyStore_Me_.Net_Core\SpyStore.Service\bin\Debug\netcoreapp2.1\SpyStore.Dal.pdb
+C:\SpyStore_Me_.Net_Core\SpyStore.Service\bin\Debug\netcoreapp2.1\SpyStore.Models.pdb
+C:\SpyStore_Me_.Net_Core\SpyStore.Service\obj\Debug\netcoreapp2.1\SpyStore.Service.csprojAssemblyReference.cache
+C:\SpyStore_Me_.Net_Core\SpyStore.Service\obj\Debug\netcoreapp2.1\SpyStore.Service.csproj.CoreCompileInputs.cache
+C:\SpyStore_Me_.Net_Core\SpyStore.Service\obj\Debug\netcoreapp2.1\SpyStore.Service.RazorAssemblyInfo.cache
+C:\SpyStore_Me_.Net_Core\SpyStore.Service\obj\Debug\netcoreapp2.1\SpyStore.Service.RazorAssemblyInfo.cs
+C:\SpyStore_Me_.Net_Core\SpyStore.Service\obj\Debug\netcoreapp2.1\SpyStore.Service.AssemblyInfoInputs.cache
+C:\SpyStore_Me_.Net_Core\SpyStore.Service\obj\Debug\netcoreapp2.1\SpyStore.Service.AssemblyInfo.cs
+C:\SpyStore_Me_.Net_Core\SpyStore.Service\obj\Debug\netcoreapp2.1\SpyStore.Service.RazorTargetAssemblyInfo.cache
+C:\SpyStore_Me_.Net_Core\SpyStore.Service\obj\Debug\netcoreapp2.1\SpyStore.Service.csproj.CopyComplete
+C:\SpyStore_Me_.Net_Core\SpyStore.Service\obj\Debug\netcoreapp2.1\SpyStore.Service.dll
+C:\SpyStore_Me_.Net_Core\SpyStore.Service\obj\Debug\netcoreapp2.1\SpyStore.Service.pdb

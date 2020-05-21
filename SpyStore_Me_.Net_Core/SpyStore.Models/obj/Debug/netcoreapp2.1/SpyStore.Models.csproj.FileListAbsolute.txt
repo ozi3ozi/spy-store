@@ -1,0 +1,22 @@
+C:\Users\ozi3o\Documents\Etudes\O'Reilly learning\Building Web Applications with .NET Core 2.1 and JavaScript\building-web-apps-master\SpyStore_Me_.Net_Core\SpyStore.Models\bin\Debug\netcoreapp2.1\SpyStore.Models.deps.json
+C:\Users\ozi3o\Documents\Etudes\O'Reilly learning\Building Web Applications with .NET Core 2.1 and JavaScript\building-web-apps-master\SpyStore_Me_.Net_Core\SpyStore.Models\bin\Debug\netcoreapp2.1\SpyStore.Models.dll
+C:\Users\ozi3o\Documents\Etudes\O'Reilly learning\Building Web Applications with .NET Core 2.1 and JavaScript\building-web-apps-master\SpyStore_Me_.Net_Core\SpyStore.Models\bin\Debug\netcoreapp2.1\SpyStore.Models.pdb
+C:\Users\ozi3o\Documents\Etudes\O'Reilly learning\Building Web Applications with .NET Core 2.1 and JavaScript\building-web-apps-master\SpyStore_Me_.Net_Core\SpyStore.Models\obj\Debug\netcoreapp2.1\SpyStore.Models.csprojAssemblyReference.cache
+C:\Users\ozi3o\Documents\Etudes\O'Reilly learning\Building Web Applications with .NET Core 2.1 and JavaScript\building-web-apps-master\SpyStore_Me_.Net_Core\SpyStore.Models\obj\Debug\netcoreapp2.1\SpyStore.Models.csproj.CoreCompileInputs.cache
+C:\Users\ozi3o\Documents\Etudes\O'Reilly learning\Building Web Applications with .NET Core 2.1 and JavaScript\building-web-apps-master\SpyStore_Me_.Net_Core\SpyStore.Models\obj\Debug\netcoreapp2.1\SpyStore.Models.AssemblyInfoInputs.cache
+C:\Users\ozi3o\Documents\Etudes\O'Reilly learning\Building Web Applications with .NET Core 2.1 and JavaScript\building-web-apps-master\SpyStore_Me_.Net_Core\SpyStore.Models\obj\Debug\netcoreapp2.1\SpyStore.Models.AssemblyInfo.cs
+C:\Users\ozi3o\Documents\Etudes\O'Reilly learning\Building Web Applications with .NET Core 2.1 and JavaScript\building-web-apps-master\SpyStore_Me_.Net_Core\SpyStore.Models\obj\Debug\netcoreapp2.1\SpyStore.Models.dll
+C:\Users\ozi3o\Documents\Etudes\O'Reilly learning\Building Web Applications with .NET Core 2.1 and JavaScript\building-web-apps-master\SpyStore_Me_.Net_Core\SpyStore.Models\obj\Debug\netcoreapp2.1\SpyStore.Models.pdb
+C:\Users\ozi3o\Documents\Etudes\O'Reilly learning\Building Web Applications with .NET Core 2.1 and JavaScript\building-web-apps-master\SpyStore_Me_.Net_Core\SpyStore.Models\bin\Debug\netcoreapp2.1\SpyStore.Models.runtimeconfig.json
+C:\Users\ozi3o\Documents\Etudes\O'Reilly learning\Building Web Applications with .NET Core 2.1 and JavaScript\building-web-apps-master\SpyStore_Me_.Net_Core\SpyStore.Models\bin\Debug\netcoreapp2.1\SpyStore.Models.runtimeconfig.dev.json
+C:\SpyStore_Me_.Net_Core\SpyStore.Models\bin\Debug\netcoreapp2.1\SpyStore.Models.deps.json
+C:\SpyStore_Me_.Net_Core\SpyStore.Models\bin\Debug\netcoreapp2.1\SpyStore.Models.runtimeconfig.json
+C:\SpyStore_Me_.Net_Core\SpyStore.Models\bin\Debug\netcoreapp2.1\SpyStore.Models.runtimeconfig.dev.json
+C:\SpyStore_Me_.Net_Core\SpyStore.Models\bin\Debug\netcoreapp2.1\SpyStore.Models.dll
+C:\SpyStore_Me_.Net_Core\SpyStore.Models\bin\Debug\netcoreapp2.1\SpyStore.Models.pdb
+C:\SpyStore_Me_.Net_Core\SpyStore.Models\obj\Debug\netcoreapp2.1\SpyStore.Models.csprojAssemblyReference.cache
+C:\SpyStore_Me_.Net_Core\SpyStore.Models\obj\Debug\netcoreapp2.1\SpyStore.Models.csproj.CoreCompileInputs.cache
+C:\SpyStore_Me_.Net_Core\SpyStore.Models\obj\Debug\netcoreapp2.1\SpyStore.Models.AssemblyInfoInputs.cache
+C:\SpyStore_Me_.Net_Core\SpyStore.Models\obj\Debug\netcoreapp2.1\SpyStore.Models.AssemblyInfo.cs
+C:\SpyStore_Me_.Net_Core\SpyStore.Models\obj\Debug\netcoreapp2.1\SpyStore.Models.dll
+C:\SpyStore_Me_.Net_Core\SpyStore.Models\obj\Debug\netcoreapp2.1\SpyStore.Models.pdb
