@@ -3223,11 +3223,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\SpyStore_Me_.Net_Core\\SpyStore.Models\\SpyStore.Models.csproj",
+      "projectUniqueName": "C:\\spy-store\\SpyStore_Me_.Net_Core\\SpyStore.Models\\SpyStore.Models.csproj",
       "projectName": "SpyStore.Models",
-      "projectPath": "C:\\SpyStore_Me_.Net_Core\\SpyStore.Models\\SpyStore.Models.csproj",
+      "projectPath": "C:\\spy-store\\SpyStore_Me_.Net_Core\\SpyStore.Models\\SpyStore.Models.csproj",
       "packagesPath": "C:\\Users\\ozi3o\\.nuget\\packages\\",
-      "outputPath": "C:\\SpyStore_Me_.Net_Core\\SpyStore.Models\\obj\\",
+      "outputPath": "C:\\spy-store\\SpyStore_Me_.Net_Core\\SpyStore.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
