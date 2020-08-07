@@ -21,6 +21,7 @@ namespace SpyStore.Service.Controllers
         [HttpGet("{id}")]
         public ActionResult<string> Get(int id)
         {
+            throw new Exception("Test exception");
             return "value";
         }
 

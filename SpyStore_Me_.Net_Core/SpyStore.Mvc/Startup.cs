@@ -29,7 +29,7 @@ namespace SpyStore.Mvc
                 options.CheckConsentNeeded = context => true;
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
-
+            //services.AddScoped<ICategoryRepo, CategoryRepo>();
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
         }
@@ -47,6 +47,8 @@ namespace SpyStore.Mvc
             }
 
             app.UseStaticFiles();
+            //the CookiePolicy middleware is added in (this is part of the General Data Protection Regulation (GDPR) 
+            //support added into ASP.NET Core 2.1)
             app.UseCookiePolicy();
 
             app.UseMvc(routes =>

@@ -20,3 +20,14 @@ C:\SpyStore_Me_.Net_Core\SpyStore.Models\obj\Debug\netcoreapp2.1\SpyStore.Models
 C:\SpyStore_Me_.Net_Core\SpyStore.Models\obj\Debug\netcoreapp2.1\SpyStore.Models.AssemblyInfo.cs
 C:\SpyStore_Me_.Net_Core\SpyStore.Models\obj\Debug\netcoreapp2.1\SpyStore.Models.dll
 C:\SpyStore_Me_.Net_Core\SpyStore.Models\obj\Debug\netcoreapp2.1\SpyStore.Models.pdb
+C:\spy-store\SpyStore_Me_.Net_Core\SpyStore.Models\bin\Debug\netcoreapp2.1\SpyStore.Models.deps.json
+C:\spy-store\SpyStore_Me_.Net_Core\SpyStore.Models\bin\Debug\netcoreapp2.1\SpyStore.Models.runtimeconfig.json
+C:\spy-store\SpyStore_Me_.Net_Core\SpyStore.Models\bin\Debug\netcoreapp2.1\SpyStore.Models.runtimeconfig.dev.json
+C:\spy-store\SpyStore_Me_.Net_Core\SpyStore.Models\bin\Debug\netcoreapp2.1\SpyStore.Models.dll
+C:\spy-store\SpyStore_Me_.Net_Core\SpyStore.Models\bin\Debug\netcoreapp2.1\SpyStore.Models.pdb
+C:\spy-store\SpyStore_Me_.Net_Core\SpyStore.Models\obj\Debug\netcoreapp2.1\SpyStore.Models.csproj.CoreCompileInputs.cache
+C:\spy-store\SpyStore_Me_.Net_Core\SpyStore.Models\obj\Debug\netcoreapp2.1\SpyStore.Models.AssemblyInfoInputs.cache
+C:\spy-store\SpyStore_Me_.Net_Core\SpyStore.Models\obj\Debug\netcoreapp2.1\SpyStore.Models.AssemblyInfo.cs
+C:\spy-store\SpyStore_Me_.Net_Core\SpyStore.Models\obj\Debug\netcoreapp2.1\SpyStore.Models.dll
+C:\spy-store\SpyStore_Me_.Net_Core\SpyStore.Models\obj\Debug\netcoreapp2.1\SpyStore.Models.pdb
+C:\spy-store\SpyStore_Me_.Net_Core\SpyStore.Models\obj\Debug\netcoreapp2.1\SpyStore.Models.csprojAssemblyReference.cache
